@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: StayCollapsed
+## Notes: Remembers which tradeskill categories were collapsed last
+## Author: robosnake92
+## SavedVariablesPerCharacter: sc_collapsedCategories
+
+StayCollapsed.lua
