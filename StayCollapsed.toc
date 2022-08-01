@@ -1,4 +1,4 @@
-## Interface: 90002
+## Interface: 90205
 ## Title: StayCollapsed
 ## Notes: Remembers which tradeskill categories were collapsed last
 ## Author: robosnake92
